@@ -1,0 +1,2 @@
+# my_autohotkey_setting
+Windows上でautohotkeyを使ってmacでのカーソル移動を再現する設定(HHKB前提)
